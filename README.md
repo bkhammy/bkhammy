@@ -4,6 +4,6 @@ I’m currently studying Information Systems and Management at the University of
 
 <h2>Featured Project 💻</h2>
 
-## [Active Directory Detection Lab](https://github.com/bkhammy/active-directory-detection-lab)
+[Active Directory Detection Lab](https://github.com/bkhammy/active-directory-detection-lab)
 
 A small home lab where I set up Active Directory, collect Windows logs in Splunk, simulate a password-spray attack and try to detect it.
