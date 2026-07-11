@@ -4,9 +4,9 @@ I’m currently studying Information Systems and Management at the University of
 
 <h2>Cybersecurity Projects 💻</h2>
 
-[Active Directory Detection Lab](https://github.com/bkhammy/active-directory-detection-lab)
+[HookTrace](https://github.com/bkhammy/hook-trace)
 
-A small home lab where I set up Active Directory, collect Windows logs in Splunk, simulate a password-spray attack and try to detect it.
+A phishing email analysis tool I built to inspect exported email files safely. It extracts email headers and suspicious indicators, explains why a message looks legitimate or malicious, and generates easy to read investigation reports without opening links or executing attachments.
 
 <h2>Fun Projects 😺</h2>
 
