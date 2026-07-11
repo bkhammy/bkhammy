@@ -17,3 +17,7 @@ A phishing email analysis tool I built to inspect exported email files safely. I
 [ClutchCircuit](https://github.com/bkhammy/clutch-circuit)
 
 A fun project I built to simulate NBA games using live team and roster data. It predicts matchups with Monte Carlo simulations and generates a full play by play from the opening tip to the final buzzer.
+
+<h2>Contact 📧</h2>
+
+khammybilly@gmail.com
